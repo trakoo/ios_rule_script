@@ -1,7 +1,7 @@
-# NAME: 交易所!!!
+# NAME: exchanger
 # HOST-SUFFIX
-HOST-SUFFIX,binance.com
-HOST-SUFFIX,biyapay.io
-HOST-SUFFIX,okx.com
-HOST-SUFFIX,thpay.org
-HOST-SUFFIX,kraken.com
+HOST-SUFFIX,binance.com,exchanger
+HOST-SUFFIX,biyapay.io,exchanger
+HOST-SUFFIX,okx.com,exchanger
+HOST-SUFFIX,thpay.org,exchanger
+HOST-SUFFIX,kraken.com,exchanger
