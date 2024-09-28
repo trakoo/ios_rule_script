@@ -11,4 +11,4 @@ HOST-SUFFIX,binance.info,exchanger
 HOST-SUFFIX,bnbstatic.com,exchanger
 HOST-SUFFIX,localcoinswap.com,exchanger
 HOST-SUFFIX,mokexapp.net,exchanger
-PROCESS-NAME,electrum-4.4.6-portable.exe
+PROCESS-NAME,Electrum
