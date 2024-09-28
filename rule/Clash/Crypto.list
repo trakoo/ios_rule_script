@@ -10,3 +10,4 @@ DOMAIN-SUFFIX,thpay.vip
 DOMAIN-SUFFIX,binance.info
 DOMAIN-SUFFIX,bnbstatic.com
 DOMAIN-SUFFIX,localcoinswap.com
+PROCESS-NAME,Electrum
