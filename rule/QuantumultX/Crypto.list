@@ -11,4 +11,3 @@ HOST-SUFFIX,binance.info,exchanger
 HOST-SUFFIX,bnbstatic.com,exchanger
 HOST-SUFFIX,localcoinswap.com,exchanger
 HOST-SUFFIX,mokexapp.net,exchanger
-PROCESS-NAME,Electrum
