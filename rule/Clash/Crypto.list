@@ -11,3 +11,5 @@ DOMAIN-SUFFIX,binance.info
 DOMAIN-SUFFIX,bnbstatic.com
 DOMAIN-SUFFIX,localcoinswap.com
 PROCESS-NAME,electrum-4.4.6-portable.exe
+PROCESS-NAME,WinSCP.exe
+PROCESS-NAME,PuTTY.exe
