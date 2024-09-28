@@ -16,3 +16,6 @@ DOMAIN-SUFFIX,sufferingtail.com
 DOMAIN-SUFFIX,storageimagedisplay.com
 DOMAIN-SUFFIX,settledapproximatesuit.com
 DOMAIN-SUFFIX,sibilantsuccess.com
+
+# 直连APP！！！
+PROCESS-NAME,tailscaled.exe
