@@ -8,7 +8,7 @@
 # IP-CIDR: 50
 # IP6-CIDR: 29
 # USER-AGENT: 35
-# TOTAL: 423
+# TOTAL: 436
 HOST,0gr4uqmtt8y41hcjsgrzdrc31.ourdvsss.com,ChinaMedia
 HOST,0gr4uqmtt8y41hcjsgrzdrc3s.ourdvsss.com,ChinaMedia
 HOST,0gr4uqmtt8y41hcjsgrzdrc3z.ourdvsss.com,ChinaMedia
@@ -316,6 +316,19 @@ HOST-SUFFIX,zmz2019.com,ChinaMedia
 HOST-SUFFIX,zmzapi.com,ChinaMedia
 HOST-SUFFIX,zmzapi.net,ChinaMedia
 HOST-SUFFIX,zmzfile.com,ChinaMedia
+HOST,lf3-static.bytednsdoc.com,ChinaMedia
+HOST,v5-dy-o-abtest.zjcdn.com,ChinaMedia
+HOST-SUFFIX,amemv.com,ChinaMedia
+HOST-SUFFIX,douyincdn.com,ChinaMedia
+HOST-SUFFIX,douyinpic.com,ChinaMedia
+HOST-SUFFIX,douyinstatic.com,ChinaMedia
+HOST-SUFFIX,douyinvod.com,ChinaMedia
+HOST-SUFFIX,idouyinvod.com,ChinaMedia
+HOST-SUFFIX,ixigua.com,ChinaMedia
+HOST-SUFFIX,ixiguavideo.com,ChinaMedia
+HOST-SUFFIX,pstatp.com,ChinaMedia
+HOST-SUFFIX,snssdk.com,ChinaMedia
+HOST-SUFFIX,toutiao.com,ChinaMedia
 HOST-KEYWORD,bilibili,ChinaMedia
 HOST-KEYWORD,qiyi,ChinaMedia
 USER-AGENT,*bili*,ChinaMedia
