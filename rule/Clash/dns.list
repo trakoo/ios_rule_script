@@ -4,3 +4,4 @@ IP-CIDR,1.0.0.0/16,no-resolve
 IP-CIDR,1.1.1.0/16,no-resolve
 IP-CIDR,8.8.8.0/16,no-resolve
 IP-CIDR,94.140.14.0/16,no-resolve
+IP-CIDR,185.222.222.0/16,no-resolve
