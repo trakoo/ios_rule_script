@@ -1,0 +1,6 @@
+# DNS
+DOMAIN-SUFFIX,dns.google
+IP-CIDR,1.0.0.1,no-resolve
+IP-CIDR,1.1.1.1,no-resolve
+IP-CIDR,8.8.8.8,no-resolve
+IP-CIDR,94.140.14.14,no-resolve
